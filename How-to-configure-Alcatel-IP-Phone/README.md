@@ -129,22 +129,6 @@ Perform the following tests.
 - Verify two-way audio.
 - Confirm successful call connection.
 
----
-
-## Configuration Checklist
-
-- [ ] Phone received a DHCP IP address
-- [ ] Web interface is accessible
-- [ ] DHCP mode is enabled
-- [ ] SIP Server configured
-- [ ] Extension configured
-- [ ] SIP Password configured
-- [ ] SIP account registered
-- [ ] Outgoing calls successful
-- [ ] Incoming calls successful
-- [ ] Two-way audio verified
-
----
 
 ## Expected Result
 
