@@ -80,7 +80,7 @@ Click **Save** after entering all values.
 1. Log in to **Alcatel OMC**.
 2. Navigate to:
 
-```
+
 Subscribers / Base Stations
 
  Subscribers List
@@ -103,7 +103,7 @@ Save the configuration.
 
 Verify that the SIP account status displays:
 
-```
+
 Registered
 
 ![Alt text](images/registered.png)
